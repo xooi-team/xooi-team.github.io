@@ -1,7 +1,7 @@
 ---
 title: Xooi CRM Documentation
 layout: default
-nav_order: 1
+nav_order: 0
 ---
 ## Xooi CRM Api
 {: .text-blue-100 .fs-8}
