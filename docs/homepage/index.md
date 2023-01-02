@@ -3,7 +3,7 @@ title: Ana Sayfa
 layout: default
 nav_order: 1
 ---
-## Activity
+## Ana Sayfa
 {: .text-blue-100 .fs-8}
 ---
 

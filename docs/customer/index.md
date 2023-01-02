@@ -3,7 +3,7 @@ title: Müşteriler
 layout: default
 nav_order: 3
 ---
-## Activity
+## Müşteriler
 {: .text-blue-100 .fs-8}
 ---
 

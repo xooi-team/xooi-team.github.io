@@ -3,7 +3,7 @@ title: Müşteri Adayları
 layout: default
 nav_order: 2
 ---
-## Activity
+## Müşteri Adayları
 {: .text-blue-100 .fs-8}
 ---
 

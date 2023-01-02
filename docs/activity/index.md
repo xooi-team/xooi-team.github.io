@@ -3,7 +3,7 @@ title: Aktiviteler
 layout: default
 nav_order: 4
 ---
-## Activity
+## Aktiviteler
 {: .text-blue-100 .fs-8}
 ---
 
