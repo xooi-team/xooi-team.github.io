@@ -1,5 +1,5 @@
 ---
-title: Ana Sayfa
+title: Müşteri Adayları
 layout: default
 nav_order: 2
 ---

@@ -1,7 +1,7 @@
 ---
-title: Activity
+title: Aktiviteler
 layout: default
-nav_order: 2
+nav_order: 4
 ---
 ## Activity
 {: .text-blue-100 .fs-8}
