@@ -1,21 +1,20 @@
 ---
-title: Activity
+title: Ana Sayfa
 layout: default
-nav_order: 2
+nav_order: 3
 ---
 ## Activity
 {: .text-blue-100 .fs-8}
 ---
 
-
 #### Search
 
-Aktiviteleri filtreleme, sıralama yaparak sonuçları sayfalara göre listeler.
+Müşteri
 
 ![ActivitySearch](/images/activitiy.png)
 
 ```http
-  POST /api/Activity/Search
+  POST /api/Activity/Searchß
 ```
 
 | Parametre | Tip     | Açıklama                |

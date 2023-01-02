@@ -1,5 +1,5 @@
 ---
-title: Activity
+title: Ana Sayfa
 layout: default
 nav_order: 2
 ---
@@ -7,10 +7,9 @@ nav_order: 2
 {: .text-blue-100 .fs-8}
 ---
 
-
 #### Search
 
-Aktiviteleri filtreleme, sıralama yaparak sonuçları sayfalara göre listeler.
+Müşteri Adayı
 
 ![ActivitySearch](/images/activitiy.png)
 
